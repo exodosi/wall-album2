@@ -1,0 +1,21 @@
+{
+  "name": "آلبوم جادویی رِزا",
+  "short_name": "آلبوم",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#ff9900",
+  "icons": [
+    {
+      "src": "images/fox-icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "images/fox-icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "lang": "fa"
+}
